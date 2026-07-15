@@ -66,3 +66,4 @@ Platform for registrations, teams, submissions, mentor allocation, and event man
 - 💻 GitHub — https://github.com/Lakshanyakrishna
 - 💼 LinkedIn — https://linkedin.com/in/lakshanya-krishna
 - 📸 Instagram — https://instagram.com/being_shanya_13
+
